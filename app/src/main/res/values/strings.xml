@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Recipes App</string>
+    <string name="txtTitle">Bruschetta Recipe</string>
+    <string name="description">Recipe Image</string>
+    <string name="btnRecipe">View Recipe</string>
+    <string name="btnGoBack">Go Back</string>
+    <string name="txtIngredients" translatable="false">Ingredients</string>
+    <string name="txtItem1" translatable="false">4 plum tomatoes</string>
+    <string name="txtItem2" translatable="false">6 basil leaves</string>
+    <string name="txtItem3" translatable="false">3 garlic cloves, chopped</string>
+    <string name="txtItem4" translatable="false">3 TB olive oil</string>
+    <string name="txtDirections" translatable="false">Directions</string>
+    <string name="txtMix" translatable="false">Combine the ingredients and add salt to taste. Top french bread slices with mixture.</string>
+    <string name="allIngredients">4 plum tomatoes\n6 basil leaves\n3 garlic cloves,chopped\n3 TB olive oil</string>
+</resources>
